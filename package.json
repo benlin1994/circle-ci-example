@@ -1,22 +1,18 @@
 {
-  "name": "circle-ci-example",
+  "name": "lab-3a-solution",
   "version": "1.0.0",
-  "description": "",
+  "description": "solution for Unit 3-A Lab",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/benlin1994/circle-ci-example.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/benlin1994/circle-ci-example/issues"
-  },
-  "homepage": "https://github.com/benlin1994/circle-ci-example#readme",
   "dependencies": {
-    "jest": "^26.5.0"
+    "bcrypt": "^5.0.0",
+    "express": "^4.17.1",
+    "jest": "^26.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.7"
   }
 }

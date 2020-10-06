@@ -1,2 +1,0 @@
-# circle-ci-example
-#
