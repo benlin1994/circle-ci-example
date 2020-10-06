@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/benlin1994/circle-ci-example/issues"
   },
-  "homepage": "https://github.com/benlin1994/circle-ci-example#readme"
+  "homepage": "https://github.com/benlin1994/circle-ci-example#readme",
+  "dependencies": {
+    "jest": "^26.5.0"
+  }
 }
